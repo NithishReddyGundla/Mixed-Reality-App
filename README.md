@@ -1,1 +1,1 @@
-# Mixed_Reality_App
+# MixedRealityApp
