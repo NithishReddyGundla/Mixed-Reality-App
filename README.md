@@ -23,9 +23,6 @@
 
 ###By providing a new and innovative way to view, measure, and markup art frames, the Mixed Reality Art Gallery Power App solves a real-world problem and creates new opportunities for art enthusiasts, professionals, and businesses. It enables them to appreciate and analyze art pieces in a more interactive and immersive way, which can lead to new insights, ideas, and discoveries.
 
-# App Screenshots
-![](App Images/IMG_2875.png)
-
 
 # Future Enhancements
 ### In the future, we plan to add additional features to the Mixed Reality Art Gallery Power App, including the ability to search for art frames, filter by artist or style, and purchase art directly from the app. We also plan to add support for additional devices and platforms, including iOS devices and Windows Mixed Reality headsets. And also, using neural radiance fields(NeRF),a software that uses AI and neural radiance fields (NeRF) to approximate how light behaves in the real world, enabling users to reconstruct a 3D scene or 3D objects from a handful of images taken at different angles.
