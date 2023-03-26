@@ -24,7 +24,7 @@
 ###By providing a new and innovative way to view, measure, and markup art frames, the Mixed Reality Art Gallery Power App solves a real-world problem and creates new opportunities for art enthusiasts, professionals, and businesses. It enables them to appreciate and analyze art pieces in a more interactive and immersive way, which can lead to new insights, ideas, and discoveries.
 
 # App Screenshots
-![IMG_2875]()
+![](App Images/IMG_2875.png)
 
 
 # Future Enhancements
