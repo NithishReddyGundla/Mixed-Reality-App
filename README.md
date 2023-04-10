@@ -1,4 +1,4 @@
-# Mixed Reality Art Gallery" Power App
+# Mixed Reality Art Gallery Power App
 In this project, I have created a platform (Power App) where individuals/ enterprises can view art frames in mixed reality, measure in mixed reality, and markup in mixed reality for inspection and also AI Image Generator using OpenAI's DALLE-2 into my App using my OpenAI API.
 
 ## Project Overview
